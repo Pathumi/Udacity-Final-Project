@@ -151,6 +151,7 @@ public class MyAgent extends Agent
 				}
 			}
 		}
+		//for verticle match
 		for(int j=0;j<this.myGame.getRowCount();j++)
 		{
 			for(int k=0;k<this.myGame.getColumnCount();k++)
